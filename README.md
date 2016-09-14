@@ -1,2 +1,2 @@
-# sobolev
+# isobolev
 Ievgen Sobolev website
