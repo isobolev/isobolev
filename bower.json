@@ -1,0 +1,12 @@
+{
+  "name": "isobolev",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "svgxuse": "^1.1.21"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
